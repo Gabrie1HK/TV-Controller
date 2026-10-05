@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_status_dot.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/status_dot.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_bg_button.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_bg_card.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_volume_up.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_volume_up.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_home.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_bg_power_button.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/bg_power_button.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_bg_dpad_center.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/bg_dpad_center.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_back.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_power.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_power.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_bg_trackpad.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/bg_trackpad.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_volume_down.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_volume_down.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_volume_mute.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_volume_mute.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_ic_tv.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/ic_tv.xml"
+    },
+    {
+        "merged": "com.example.tvcontroller.app-merged_res-34:/drawable_bg_dpad_button.xml.flat",
+        "source": "com.example.tvcontroller.app-main-36:/drawable/bg_dpad_button.xml"
+    }
+]

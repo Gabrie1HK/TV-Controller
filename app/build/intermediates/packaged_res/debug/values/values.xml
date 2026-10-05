@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_card">#1E202E</color>
+    <color name="bg_card_stroke">#2D3148</color>
+    <color name="bg_dpad">#181A26</color>
+    <color name="bg_dpad_button">#282C40</color>
+    <color name="bg_dpad_button_pressed">#3E4463</color>
+    <color name="bg_main">#12131C</color>
+    <color name="bg_trackpad">#1A1C29</color>
+    <color name="bg_trackpad_stroke">#373D5E</color>
+    <color name="color_power">#EF4444</color>
+    <color name="color_power_pressed">#DC2626</color>
+    <color name="primary">#6366F1</color>
+    <color name="primary_variant">#4F46E5</color>
+    <color name="status_connected">#10B981</color>
+    <color name="status_connecting">#F59E0B</color>
+    <color name="status_disconnected">#EF4444</color>
+    <color name="text_hint">#6B7280</color>
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <string name="app_name">Control TV</string>
+    <string name="btn_back">Atrás</string>
+    <string name="btn_connect">Conectar</string>
+    <string name="btn_disconnect">Desconectar</string>
+    <string name="btn_down">Abajo</string>
+    <string name="btn_home">Inicio</string>
+    <string name="btn_left">Izquierda</string>
+    <string name="btn_mute">Silencio</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_power">Encendido</string>
+    <string name="btn_right">Derecha</string>
+    <string name="btn_up">Arriba</string>
+    <string name="btn_vol_down">Vol -</string>
+    <string name="btn_vol_up">Vol +</string>
+    <string name="connection_header">Conexión Wi-Fi</string>
+    <string name="ip_hint">Dirección IP del TV (ej. 192.168.1.50)</string>
+    <string name="label_dpad">Control Direccional</string>
+    <string name="label_system_buttons">Controles del Sistema</string>
+    <string name="label_trackpad">Área Táctil (Cursor)</string>
+    <string name="msg_connected">Conectado con éxito al servidor TV</string>
+    <string name="msg_ip_required">Ingrese una IP válida</string>
+    <string name="port_hint">Puerto (ej. 8080)</string>
+    <string name="status_connected">Estado: Conectado a %1$s:%2$d</string>
+    <string name="status_connecting">Estado: Conectando...</string>
+    <string name="status_disconnected">Estado: Desconectado</string>
+    <string name="status_error">Estado: Error (%1$s)</string>
+    <string name="trackpad_hint">Desliza para mover el cursor • Toca para hacer clic</string>
+    <style name="Theme.TVController" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+
+        
+        <item name="colorSecondary">@color/primary</item>
+        <item name="colorSecondaryVariant">@color/primary_variant</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+
+        
+        <item name="android:statusBarColor">@color/bg_main</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+    </style>
+</resources>
